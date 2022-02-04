@@ -1,0 +1,14 @@
+body{
+background-color:powderblue;
+margin: 2%;
+}
+h1{
+color:green;
+}
+
+.text{
+  background-color: white;
+  font-size:15pt;
+       height:35px;
+       width:200px;
+}
